@@ -1,0 +1,124 @@
+/*COLORE*/
+body {
+  font-family: 'Roboto';
+  padding-top: 80px; }
+
+.navbar-default {
+  background: #27AD60; }
+
+.bg-kane {
+  background: url("../img/carousel-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 500px; }
+  .bg-kane .text-bg {
+    padding: 4% 5%;
+    text-align: center;
+    color: white; }
+    .bg-kane .text-bg h1 {
+      font-size: 4.4em;
+      font-weight: normal;
+      padding-bottom: 8%; }
+    .bg-kane .text-bg p {
+      font-size: 1.8em;
+      font-weight: normal;
+      line-height: 45px; }
+
+.color-palette .row {
+  margin: 0 50px; }
+.color-palette h1 {
+  font-size: 4.4em;
+  font-weight: normal; }
+.color-palette hr {
+  border-top: 1px solid #635E63;
+  width: 18%;
+  text-align: center;
+  padding-top: 2%; }
+
+.color-palette .col-md-2 {
+  height: 150px;
+  color: black;
+  margin-bottom: 1%; }
+
+.color-palette .box-color1 {
+  background: #69D2E7; }
+.color-palette .box-color2 {
+  background: #A7DBDB; }
+.color-palette .box-color3 {
+  background: #E0E4CC; }
+.color-palette .box-color4 {
+  background: #F38630; }
+.color-palette .box-color5 {
+  background: #FA6900; }
+.color-palette .box-color6 {
+  background: #E94C6F; }
+.color-palette .box-color7 {
+  background: #542733; }
+.color-palette .box-color8 {
+  background: #5A6A62; }
+.color-palette .box-color9 {
+  background: #C6D5CD; }
+.color-palette .box-color10 {
+  background: #FDF200; }
+.color-palette .box-color11 {
+  background: #DB3340; }
+.color-palette .box-color12 {
+  background: #E8B71A; }
+.color-palette .box-color13 {
+  background: #F7EAC8; }
+.color-palette .box-color14 {
+  background: #1FDA9A; }
+.color-palette .box-color15 {
+  background: #28ABE3; }
+.color-palette .box-color16 {
+  background: #588C73; }
+.color-palette .box-color17 {
+  background: #F2E394; }
+.color-palette .box-color18 {
+  background: #F2AE72; }
+.color-palette .box-color19 {
+  background: #D96459; }
+.color-palette .box-color20 {
+  background: #8C4646; }
+.color-palette .box-color21 {
+  background: #D0C91F; }
+.color-palette .box-color22 {
+  background: #85C4B9; }
+.color-palette .box-color23 {
+  background: #008BBA; }
+.color-palette .box-color24 {
+  background: #DF514C; }
+.color-palette .box-color25 {
+  background: #DC403B; }
+
+#about {
+  background: #2C3E50;
+  color: white;
+  padding: 5% 0;
+  font-weight: normal; }
+  #about h1 {
+    font-size: 4.4em;
+    font-weight: normal;
+    text-align: center; }
+  #about p {
+    margin-bottom: 6%; }
+  #about hr {
+    border-top: 1px solid white;
+    width: 18%;
+    text-align: center;
+    padding-top: 2%; }
+  #about .bar-progre {
+    padding-top: 15%; }
+    #about .bar-progre .progress {
+      background-color: #DCD5D5;
+      border: 1px solid #DCD5D5;
+      border-radius: 0;
+      height: 8px;
+      margin-bottom: 3px; }
+    #about .bar-progre .progress-bar {
+      background-color: #E67E22; }
+  #about img {
+    width: 100%; }
+
+/*# sourceMappingURL=main.css.map */
