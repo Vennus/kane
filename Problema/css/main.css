@@ -1,10 +1,13 @@
 /*COLORE*/
 body {
   font-family: 'Roboto';
-  padding-top: 80px; }
+  padding-top: 50px; }
 
 .navbar-default {
   background: #27AD60; }
+
+.navbar-default .navbar-nav > li > a {
+  color: white; }
 
 .bg-kane {
   background: url("../img/carousel-bg.jpg");
